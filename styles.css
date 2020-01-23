@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    background-color: yellow;
+}
+
+marquee {
+    text-align: center;
+    font-size: 64px;
+}
+
+body {
+    background-color: pink;
+    font-family: 'Oswald', sans-serif;
+}
+
+marquee {
+    background-color: gold;
+}
+.box {
+    background-color: yellow;
+    color: black;
+    border-radius: 5px;
+    border: 2px dodgerblue solid;
+}
